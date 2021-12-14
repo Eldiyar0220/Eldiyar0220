@@ -4,7 +4,7 @@
 
 
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=red)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-090909?style=for-the-badge&logo=dart&logoColor=white)
 ![SQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgresql)
 ![GH](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=github)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=Javascript)
